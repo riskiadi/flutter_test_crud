@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "70058672083",
+    "firebase_url": "https://fluttertest-fea41-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluttertest-fea41",
+    "storage_bucket": "fluttertest-fea41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70058672083:android:03a5ac2fc20966758d7926",
+        "android_client_info": {
+          "package_name": "com.example.flutter_simadun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70058672083-n1c8gls3a9rva56e16aunkr376gejlhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_simadun",
+            "certificate_hash": "bb8a3faa7bd6134aa807062ffa3641ad9d42f050"
+          }
+        },
+        {
+          "client_id": "70058672083-oi8vscftbuin4ii4qol8qdgb8cre1b5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_simadun",
+            "certificate_hash": "3b36c14a3ef60c6f866c66f3dd2a22b8b00bbb90"
+          }
+        },
+        {
+          "client_id": "70058672083-s4e12a8u6e8amqenfsud41fb16eh0ojr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJextHZH98XvUSSRSVqZpecipdtVDY_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70058672083-s4e12a8u6e8amqenfsud41fb16eh0ojr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
